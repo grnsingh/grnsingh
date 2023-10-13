@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grnsingh
 - 👀 I’m interested in everything;)
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning quantitave analysis
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 grn.singh1@gmail.com
 
